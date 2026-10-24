@@ -174,7 +174,7 @@ classDiagram
 
 1. Projeyi klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/HospitalPlanningSystem.git](https://github.com/KULLANICI_ADINIZ/HospitalPlanningSystem.git)
+   git clone https://github.com/Arda-ai28/HospitalPlanningSystem.git
    ```
 2. IntelliJ IDEA ile projeyi Maven projesi olarak açın.
 3. Uygulamayı başlatmak için `src/main/java/com/hospital/ui/ConsoleMenuApp.java` sınıfını çalıştırın.
