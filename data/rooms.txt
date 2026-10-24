@@ -1,0 +1,2 @@
+OR-1;Ameliyathane A (KVC);Kardiyoloji;8
+OR-2;Ameliyathane B (Genel);GENEL;8

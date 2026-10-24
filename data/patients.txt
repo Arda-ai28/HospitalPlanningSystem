@@ -1,0 +1,4 @@
+PAT-1;44444444444;Ali Veli;70;5;40;Kardiyoloji;true
+PAT-2;55555555555;Ayse Fatma;28;2;90;Kardiyoloji;false
+PAT-3;66666666666;Canan Can;55;4;30;Genel Cerrahi;true
+PAT-4;77777777777;Burak Оz;34;3;120;Noroloji;false

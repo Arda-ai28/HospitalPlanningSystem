@@ -1,0 +1,18 @@
+NESNEYE YÖNELİK PROGRAMLAMA PROJE ÖDEVİ - PROJE TAKIMI VE GÖREVLERİ
+Proje Konusu: Hastane Planlama Sistemi
+
+1. Grup Üyesi:
+- Öğrenci Numarası : 1250505020
+- Adı Soyadı       : Arda YILMAZ
+- Görevi           : Çekirdek OOP Mimarisinin Kurulması (BaseEntity, Person),
+                     Hasta Önceliklendirme (Max-Heap) ve Greedy Çizelgeleme
+                     Algoritmalarının Geliştirilmesi, Strategy Tasarım Kalıbı,
+                     Servis Katmanı ve JUnit Birim Testleri (Test 1-4).
+
+2. Grup Üyesi:
+- Öğrenci Numarası : 1250505026
+- Adı Soyadı       : Üzeyir ÇAVUŞOĞLU
+- Görevi           : Alt Model Sınıflarının (Doctor, Patient, OperatingRoom,
+                     SurgerySchedule) Geliştirilmesi, Singleton ve Factory Tasarım
+                     Kalıpları ile Kalıcı Veri (FileRepository) Katmanı, Konsol (CLI)
+                     Arayüzü, UML Diyagramı ve JUnit Birim Testleri (Test 5-8).
